@@ -566,7 +566,7 @@ function App() {
                             label: 'Download Resume', 
                             description: 'Get my latest CV',
                             color: 'bg-green-600 hover:bg-green-700',
-                            link: 'https://drive.google.com/file/d/1eSkbX9hyy-hksWJkH5X9UzR3iuu6QJ0c/view?usp=drive_link'
+                            link: 'https://drive.google.com/file/d/1eQo2CTxPoSrnUGVIwV_HaYXu8JJ7QgUR/view?usp=drive_link'
                           }
                         ].map((item, index) => (
                           <a
