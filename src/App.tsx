@@ -342,7 +342,7 @@ function App() {
                       location: 'New York, NY',
                       description: 'Built cloud-hosted healthcare web applications using Spring Boot microservices, React/Next.js frontend and AWS deployment to improve service accessibility.',
                       achievements: [
-                        'Designed and developed RESTful and GraphQL APIs with Spring Boot, leveraging Java 8+ features like Lambda expressions, achieving 80% code coverage.',
+                        'Developed and optimized RESTful APIs to manage patient onboarding, care plans, and notifications, improving payload efficiency and overall response times.',
                         'Wrote complex stored procedures in PostgreSQL, applying indexing and query optimization to enhance performance and reporting.',
                         'Created responsive UI components with React, Next.js, JavaScript, HTML, CSS and Bootstrap, managing application state with Redux.',
                         'Performed integration, regression and unit testing using JUnit with Mockito, validating APIs with Postman and automated flows with Selenium.',
