@@ -213,7 +213,7 @@ function App() {
                           { label: 'Location', value: 'New York, NY' },
                           { label: 'Experience', value: '3.5+ Years Java/Full-Stack' },
                           { label: 'Education', value: 'MS Computer Science' },
-                          { label: 'Certifications', value: 'AWS Cloud Practitioner, Azure Developer' }
+                          { label: 'Certifications', value: 'AWS Cloud Practitioner' }
                         ].map((item, index) => (
                           <li 
                             key={index}
@@ -566,7 +566,7 @@ function App() {
                             label: 'Download Resume', 
                             description: 'Get my latest CV',
                             color: 'bg-green-600 hover:bg-green-700',
-                            link: 'https://drive.google.com/file/d/1-GVclgUkfucgupZ4r7WwK271SLUSd526/view?usp=drive_link'
+                            link: 'https://drive.google.com/file/d/1lag6fCvBCUa4xlTGho5OIbj9uLp1yvYg/view?usp=sharing'
                           }
                         ].map((item, index) => (
                           <a
