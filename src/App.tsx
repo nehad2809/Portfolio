@@ -124,7 +124,7 @@ function App() {
                       Full Stack Developer
                     </p>
                     <p className="text-gray-600 leading-relaxed text-base sm:text-lg max-w-3xl transform transition-all duration-600 hover:text-gray-700 animate-fade-in-up mb-8">
-                      Software Developer with 3+ years of experience in designing and delivering full-stack web applications, combining front-end and back-end expertise to build scalable, cloud-based solutions. I specialize in Java, Spring Boot, React/Next.js, and modern cloud technologies. I have proven ability to collaborate in Agile teams to develop secure, reliable systems that enhance business performance. Throughout my experience, I’ve consistently developed high-performing solutions that increased efficiency, minimized errors, and improved overall user experience.
+                      Software Developer with 3+ years of experience in designing and delivering full-stack web applications, combining front-end and back-end expertise to build scalable, cloud-based solutions. I specialize in Java, Spring Boot, Microservices, and modern cloud technologies. I have proven ability to collaborate in Agile teams to develop secure, reliable systems that enhance business performance. Throughout my experience, I’ve consistently developed high-performing solutions that increased efficiency, minimized errors, and improved overall user experience.
                     </p>
                     
                     {/* Social Links */}
@@ -360,13 +360,13 @@ function App() {
                       location: 'Bengaluru, KA',
                       description: 'Built role-based recruitment portals with Angular, TypeScript, Node.js, Express.js and MongoDB, improving efficiency for hiring managers, recruiters, vendors, employees and applicants.',
                       achievements: [
-                        'Designed reusable Angular components with RxJS and optimized change detection, improving frontend performance.',
-                        'Visualized recruitment data using D3.js/Chart.js in Angular dashboards, improving decision-making for managers.',
+                        'Designed reusable UI components with RxJS and optimized change detection, improving frontend performance.',
+                        'Visualized recruitment data using Chart.js, enabling data-driven hiring insights and reducing decision turnaround time.',
                         'Developed RESTful APIs in Express.js for CRUD operations, authentication and role-based access, securing endpoints with OAuth 2.0 and JWT.',
                         'Optimized MongoDB schemas and queries with indexing and aggregation for high-volume recruitment data.',
                         'Implemented unit, integration and end-to-end testing with Jasmine, Karma and Cypress to maintain quality and reduce release bugs.',
-                        'Deployed Angular frontend and Node.js microservices on Azure Kubernetes Service (AKS) using Docker, enabling cloud-native scalability.',
-                        'Automated CI/CD pipelines in Azure DevOps, integrating Webpack for Angular builds, SonarQube for static code analysis.',
+                        'Containerized and deployed applications on Azure Kubernetes Service (AKS) using Docker, achieving seamless scalability and faster deployment cycles.',
+                        'Built end-to-end CI/CD pipelines in Azure DevOps, automating build, test, and deployment workflows to accelerate delivery and improve release reliability.',
                         'Integrated RabbitMQ messaging to enable asynchronous communication across services, handling event-driven flows.',
                         'Established monitoring with Prometheus, Grafana, OpenTelemetry and ELK stack to improve observability and reduce MTTR.',
                         'Secured applications by managing secrets and configurations with Azure Key Vault, ensuring compliance and safe deployments.'
@@ -566,7 +566,7 @@ function App() {
                             label: 'Download Resume', 
                             description: 'Get my latest CV',
                             color: 'bg-green-600 hover:bg-green-700',
-                            link: 'https://drive.google.com/file/d/138iFMPvxoOmMExNzyNITwjNBjLjPyVIG/view?usp=drive_link'
+                            link: 'https://drive.google.com/file/d/1DKxrP7PIUgx8kOtogDlmiYidfj7f_RqW/view?usp=drive_link'
                           }
                         ].map((item, index) => (
                           <a
