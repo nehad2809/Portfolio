@@ -339,7 +339,7 @@ function App() {
                       company: 'CVS Health',
                       position: 'Software Development Engineer',
                       period: 'August 2024 - Present',
-                      location: 'Sacramento, CA',
+                      location: 'United States',
                       description: 'Built cloud-hosted healthcare web applications using Spring Boot microservices, React/Next.js frontend and AWS deployment to improve service accessibility.',
                       achievements: [
                         'Developed and optimized RESTful APIs to manage patient onboarding, care plans, and notifications, improving payload efficiency and overall response times.',
@@ -356,8 +356,8 @@ function App() {
                     {
                       company: 'Hirecraft Software Private Limited',
                       position: 'Software Engineer',
-                      period: 'June 2021 - July 2023',
-                      location: 'Bengaluru, KA',
+                      period: 'June 2020 - July 2023',
+                      location: 'India',
                       description: 'Built role-based recruitment portals with TypeScript, Node.js, Express.js and MongoDB, improving efficiency for hiring managers, recruiters, vendors, employees and applicants.',
                       achievements: [
                         'Designed reusable UI components with RxJS and optimized change detection, improving frontend performance.',
