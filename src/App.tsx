@@ -210,7 +210,7 @@ function App() {
                       </h3>
                       <ul className="space-y-2 sm:space-y-3 text-gray-600 text-sm sm:text-base">
                         {[
-                          { label: 'Location', value: 'Florida, United States' },
+                          { label: 'Location', value: 'United States' },
                           { label: 'Experience', value: '4+ Years Java/Full-Stack' },
                           { label: 'Education', value: 'MS Computer Science' },
                           { label: 'Certifications', value: 'AWS Cloud Practitioner' }
@@ -499,7 +499,7 @@ function App() {
                       {[
                         { icon: Mail, title: 'Email', value: 'nehachowdary209@gmail.com' },
                         { icon: Phone, title: 'Phone', value: '+1 (646) 948-6990' },
-                        { icon: MapPin, title: 'Location', value: 'Florida, United States (Open to relocate)' }
+                        { icon: MapPin, title: 'Location', value: 'United States' }
                       ].map((contact, index) => (
                         <div 
                           key={index}
