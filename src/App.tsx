@@ -499,7 +499,7 @@ function App() {
                       {[
                         { icon: Mail, title: 'Email', value: 'nehachowdary209@gmail.com' },
                         { icon: Phone, title: 'Phone', value: '+1 (646) 948-6990' },
-                        { icon: MapPin, title: 'Location', value: 'New York, NY (Open to relocate)' }
+                        { icon: MapPin, title: 'Location', value: 'California, United States (Open to relocate)' }
                       ].map((contact, index) => (
                         <div 
                           key={index}
