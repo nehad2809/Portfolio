@@ -188,7 +188,7 @@ function App() {
                 <div className="space-y-6 sm:space-y-8">
                   <div className="space-y-4 sm:space-y-6">
                     {[
-                      "I am a Software Developer with over three years of experience designing and delivering full-stack web applications. My expertise lies in developing scalable backend services using Java, Spring Boot, and microservices architecture, while creating responsive frontend applications with React, Next.js, Angular, and TypeScript. I have delivered impactful projects at CVS Health and Hirecraft Software, focusing on healthcare applications, recruitment portals, and cloud-native solutions that improved system efficiency and business outcomes.",
+                      "I am a Software Developer with over 4 years of experience designing and delivering full-stack web applications. My expertise lies in developing scalable backend services using Java, Spring Boot, and microservices architecture, while creating responsive frontend applications with React, Next.js, Angular, and TypeScript. I have delivered impactful projects at CVS Health and Hirecraft Software, focusing on healthcare applications, recruitment portals, and cloud-native solutions that improved system efficiency and business outcomes.",
                       "On the backend, I specialize in building RESTful and GraphQL APIs with Spring Boot, leveraging Java 8+ features like Lambda expressions and Stream API. I have extensive experience with database optimization using PostgreSQL, MongoDB, and Cassandra, implementing caching strategies with Redis, and managing high-volume messaging with Kafka and RabbitMQ. I also have hands-on experience with performance testing using JMeter and comprehensive testing strategies with JUnit, Mockito, and Selenium.",
                       "Beyond development, I have significant experience with cloud and DevOps practices, working with AWS and Azure for containerized deployments using Docker and Kubernetes. I have automated CI/CD pipelines with Jenkins and Azure DevOps, implemented monitoring with CloudWatch, Prometheus, and ELK stack, and managed infrastructure as code with Terraform. My ability to collaborate in Agile/Scrum teams, coupled with strong problem-solving skills, helps me deliver high-quality, scalable solutions with measurable impact."
                     ].map((paragraph, index) => (
@@ -210,7 +210,7 @@ function App() {
                       </h3>
                       <ul className="space-y-2 sm:space-y-3 text-gray-600 text-sm sm:text-base">
                         {[
-                          { label: 'Location', value: 'New York, NY' },
+                          { label: 'Location', value: 'California, US' },
                           { label: 'Experience', value: '3.5+ Years Java/Full-Stack' },
                           { label: 'Education', value: 'MS Computer Science' },
                           { label: 'Certifications', value: 'AWS Cloud Practitioner' }
@@ -339,7 +339,7 @@ function App() {
                       company: 'CVS Health',
                       position: 'Software Development Engineer',
                       period: 'August 2024 - Present',
-                      location: 'New York, NY',
+                      location: 'Sacramento, CA',
                       description: 'Built cloud-hosted healthcare web applications using Spring Boot microservices, React/Next.js frontend and AWS deployment to improve service accessibility.',
                       achievements: [
                         'Developed and optimized RESTful APIs to manage patient onboarding, care plans, and notifications, improving payload efficiency and overall response times.',
@@ -566,7 +566,7 @@ function App() {
                             label: 'Download Resume', 
                             description: 'Get my latest CV',
                             color: 'bg-green-600 hover:bg-green-700',
-                            link: 'https://drive.google.com/file/d/1lag6fCvBCUa4xlTGho5OIbj9uLp1yvYg/view?usp=sharing'
+                            link: 'https://drive.google.com/file/d/1LuCjpluQnzIzilAQs_f0YTYFtnv15WD6/view?usp=drive_link'
                           }
                         ].map((item, index) => (
                           <a
