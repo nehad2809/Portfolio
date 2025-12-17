@@ -211,7 +211,7 @@ function App() {
                       <ul className="space-y-2 sm:space-y-3 text-gray-600 text-sm sm:text-base">
                         {[
                           { label: 'Location', value: 'Florida, United States' },
-                          { label: 'Experience', value: '3.5+ Years Java/Full-Stack' },
+                          { label: 'Experience', value: '4+ Years Java/Full-Stack' },
                           { label: 'Education', value: 'MS Computer Science' },
                           { label: 'Certifications', value: 'AWS Cloud Practitioner' }
                         ].map((item, index) => (
