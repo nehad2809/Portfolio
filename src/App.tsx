@@ -124,7 +124,7 @@ function App() {
                       Full Stack Developer
                     </p>
                     <p className="text-gray-600 leading-relaxed text-base sm:text-lg max-w-3xl transform transition-all duration-600 hover:text-gray-700 animate-fade-in-up mb-8">
-                      Software Developer with 3+ years of experience in designing and delivering full-stack web applications, combining front-end and back-end expertise to build scalable, cloud-based solutions. I specialize in Java, Spring Boot, Microservices, and modern cloud technologies. I have proven ability to collaborate in Agile teams to develop secure, reliable systems that enhance business performance. Throughout my experience, I’ve consistently developed high-performing solutions that increased efficiency, minimized errors, and improved overall user experience.
+                      Software Developer with 4+ years of experience in designing and delivering full-stack web applications, combining front-end and back-end expertise to build scalable, cloud-based solutions. I specialize in Java, Spring Boot, Microservices, and modern cloud technologies. I have proven ability to collaborate in Agile teams to develop secure, reliable systems that enhance business performance. Throughout my experience, I’ve consistently developed high-performing solutions that increased efficiency, minimized errors, and improved overall user experience.
                     </p>
                     
                     {/* Social Links */}
@@ -151,7 +151,7 @@ function App() {
                   {/* Right side - Action buttons */}
                   <div className="flex flex-col gap-4 lg:min-w-[280px]">
                     <a 
-                      href="https://drive.google.com/file/d/1lag6fCvBCUa4xlTGho5OIbj9uLp1yvYg/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1LuCjpluQnzIzilAQs_f0YTYFtnv15WD6/view?usp=drive_link"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-blue-500 text-white px-6 sm:px-8 py-3 rounded-lg hover:bg-blue-600 transition-all duration-300 font-medium transform hover:scale-105 hover:shadow-xl hover:-translate-y-1 active:scale-95 focus:outline-none focus:ring-4 focus:ring-blue-300 group text-center"
